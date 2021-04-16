@@ -14,5 +14,9 @@ FXRates API Backend
 3. Open `appsettings.json` and configure `ExchangeRates` api access settings
 4. Press `F5` to run. It will automatically install all dependencies on first run.
 
+If run sucessfully, it should open a browser page displaying data from exchangeratesapi.io site:
+
+![image](https://user-images.githubusercontent.com/43879798/115036092-c68e5d80-9eff-11eb-8df6-146deadef20b.png)
+
 ## TODO: 
 - Add unit tests
